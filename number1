@@ -1,0 +1,8 @@
+<html>
+<head>
+</head>
+<body style="background-color:orange">
+<h1 style="text-align:center; background-color:red;"> Encabezado </h1>
+<h2 style="text-align:left; bakcground-color:blue;"> SubEncabezado </h2>
+</body>
+</html>
